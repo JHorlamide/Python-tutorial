@@ -13,3 +13,4 @@ has_criminal_records = True
 # NOT:
 if has_good_credit and not has_criminal_records:
   print("NOT: Eligible for loan")
+
